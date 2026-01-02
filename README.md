@@ -200,13 +200,6 @@ The application features a fully responsive design that works seamlessly across:
    - Rating and review system
    - Advanced search and filtering
 
-## 📄 Documentation
-
-Additional documentation is available in the `documentation_diagram/` folder:
-- **ERD.png**: Entity Relationship Diagram showing database structure
-- **DFD diagrams**: Data Flow Diagrams illustrating system processes
-- **Data Dictionary**: Comprehensive field definitions
-
 ## 🤝 Contributing
 
 1. Fork the repository
